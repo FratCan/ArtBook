@@ -1,0 +1,34 @@
+
+E
+java:S1604{"(Make this anonymous inner class a lambda(ªÈ–Î8¡ë×¦é1
+F
+java:S1604œ"(Make this anonymous inner class a lambda(ªÈ–Î8¢ë×¦é1
+K
+java:S1604¸"(Make this anonymous inner class a lambda(´ª™ıÿÿÿÿ8¢ë×¦é1
+F
+java:S1604Ó"(Make this anonymous inner class a lambda(äİÜÁ8£ë×¦é1
+F
+java:S5411Ö"(Use a primitive boolean expression here.(€‘¨Ä8¤ë×¦é1
+X	java:S125."<This block of commented-out lines of code should be removed.(ä‰”8Øë×¦é1
+M
+java:S11726"+Remove this unused method parameter "view".(çûÀÜùÿÿÿÿ8Ûë×¦é1
+]	java:S125W"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ8İë×¦é1
+W
+java:S2209l"5Change this instance-reference to a static reference.(ìâ€ÿÿÿÿÿ8àë×¦é1
+o
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ò‹ŠĞ8áë×¦é1
+Š
+java:S3252{"mUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_INDEFINITE".(ªÈ–Î8ãë×¦é1
+‹
+java:S3252œ"mUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_INDEFINITE".(ªÈ–Î8åë×¦é1
+p
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(íœÀ8çë×¦é1
+T
+java:S1874Ç"1Remove this use of "getBitmap"; it is deprecated.(öá¯³şÿÿÿÿ8êë×¦é1
+F	java:S108Ë")Either remove or fill this block of code.(”ı¾8ëë×¦é1
+r
+java:S1128"URemove this unused import 'androidx.activity.result.contract.ActivityResultContract'.(Øş8íë×¦é1
+N
+java:S1128"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8íë×¦é1
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8íë×¦é1
